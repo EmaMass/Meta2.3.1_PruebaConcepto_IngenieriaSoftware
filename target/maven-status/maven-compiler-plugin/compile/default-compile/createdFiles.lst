@@ -1,0 +1,8 @@
+com\uabc\pruebadeconceptoerpconfx\busDeEventos\BusEventos.class
+com\uabc\pruebadeconceptoerpconfx\App.class
+module-info.class
+com\uabc\pruebadeconceptoerpconfx\SystemInfo.class
+com\uabc\pruebadeconceptoerpconfx\compartido\eventos\EventUpdateProduccion.class
+com\uabc\pruebadeconceptoerpconfx\admin\ServicioAdmin.class
+com\uabc\pruebadeconceptoerpconfx\ventas\ServicioVentas.class
+com\uabc\pruebadeconceptoerpconfx\produccion\ServicioProduccion.class
